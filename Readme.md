@@ -1,1 +1,1 @@
-#!/bin/bash
+aho we a2olak eh
